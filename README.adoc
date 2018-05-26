@@ -1,0 +1,3 @@
+Placeholder for issues that relate to the infrastructure running the fractalide project.
+
+What's relevant here is the issues only.
